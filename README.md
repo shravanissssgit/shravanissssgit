@@ -44,8 +44,8 @@
 
 📊 **GitHub Stats**
 
-![Shravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravani-avhad&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravani-avhad&layout=compact&theme=radical)
+![Shravani's GitHub Stats](https://github-readme-stats-nu-nine.vercel.app/api?username=shravani-avhad&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-nu-nine.vercel.app/api/top-langs/?username=shravani-avhad&layout=compact&theme=radical)
 
 ---
 
